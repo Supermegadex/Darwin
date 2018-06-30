@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+    color: turquoise;
+}
+
+#paragraph1 {
+    margin: 50px;
+    color: turquoise;
+}
+
+#a {
+    font-size: 300%;
+}
